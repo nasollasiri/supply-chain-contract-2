@@ -84,5 +84,3 @@ These events help track activity on-chain and integrate with frontends.
 * 📦 Add item metadata (IPFS integration)
 * 📊 Frontend dashboard (React + Web3)
 * 🧾 Transaction history tracking
-
--
