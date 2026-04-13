@@ -1,4 +1,4 @@
-# supply-chain-contract
+
 # 🧾 Supply Chain Smart Contract
 
 A simple Ethereum-based smart contract for tracking ownership of items in a supply chain.
